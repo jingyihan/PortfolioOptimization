@@ -1,10 +1,3 @@
-%% MIE377 (Winter 2018) - Project 2
-%
-% Student 1 Name: Shoujun Feng
-% Student 1 ID:   1001117506
-% Student 2 Name: Jingyi Han
-% Student 2 ID:   1002144271
-
 clc
 clear all
 format long
